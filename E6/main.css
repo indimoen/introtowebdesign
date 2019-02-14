@@ -1,0 +1,88 @@
+body{
+  margin: 0:
+  padding:0
+}
+.pattern1 div {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  float: left;
+  margin: 10px;
+  opacity: .8;
+  border-radius: 5px;
+}
+.pattern1 .red{
+  background-color: red;
+}
+.pattern1 .blue{background-color: blue;
+}
+.pattern1 .yellow{
+  background-color: yellow;
+}
+.pattern2 div {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  float: left;
+  margin: .5px;
+  opacity: .8;
+  border-radius: 50%;
+  display: inline-block;
+}
+.pattern2 .pink{
+  background-color: pink;
+}
+.pattern2 .black{background-color: black;
+}
+.pattern3 div {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  float: left;
+  margin: .10px;
+  opacity: .8;
+  border-radius: 35%;
+  display: inline-block;
+}
+.pattern3 .salmon{
+  background-color: salmon;
+  width: 50px;
+  height: 200px;
+  float: left;
+  margin: 1px;
+  opacity: .8;
+  border-radius: 35%;
+  display: inline-block;
+
+}
+.pattern3 .yellow{background-color: yellow;
+  background-color: yellow;
+  width: 200px;
+  height: 100px;
+  float: left;
+  margin: 10px;
+  opacity: .8;
+  border-radius: 45%;
+  display: inline-block;}
+
+  .pattern3 .grey{background-color: grey;
+    background-color: grey;
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-top: 70px;
+    margin-left: -60px;
+    opacity: .8;
+    border-radius: 10%;
+    display: inline-block;}
+
+    .pattern3 .beige{background-color: beige;
+      background-color: beige;
+      width: 50px;
+      height: 200px;
+      float: left;
+      margin-top: -10px;
+      margin-left: 10px;
+      opacity: .8;
+      border-radius: 50%;
+      display: inline-block;}

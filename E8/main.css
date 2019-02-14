@@ -1,0 +1,29 @@
+.container {
+  width: 0;
+  height: 0;
+  background-color: none;
+  position: relative;
+  top: 90px;
+  left: 600px;
+}
+.left-circle, .right-circle, .heart {
+  background-color: #ff0066;
+  position: absolute;
+  width: 200px;
+  height: 200px;
+}
+.left-circle {
+  border-radius: 100%;
+  top: 251px;
+  left: 230px;
+}
+.right-circle {
+  border-radius: 100%;
+  top: 251px;
+  left: 370px;
+}
+.heart {
+  transform: rotate(45deg);
+  top: 321px;
+  left: 300px;
+}

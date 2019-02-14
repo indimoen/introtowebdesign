@@ -1,0 +1,9 @@
+body {
+    margin: 0
+    /*exercise 8 css*/
+
+
+}
+  .left-circle, .right-circle, .heart{
+  background-color: #ff0066;
+  position: relative;}
