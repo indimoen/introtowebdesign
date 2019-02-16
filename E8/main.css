@@ -4,9 +4,9 @@
   background-color: none;
   position: relative;
   top: 90px;
-  left: 600px;
+  left: 198px;
 }
-.left-circle, .right-circle, .heart {
+.left-circle, .right-circle, .heart, .lefteye, .righteye, .mouth{
   background-color: #ff0066;
   position: absolute;
   width: 200px;
@@ -26,4 +26,34 @@
   transform: rotate(45deg);
   top: 321px;
   left: 300px;
+}
+.lefteye {
+  top: 360px;
+  left: 370px;
+  width: 15px;
+  height: 15px;
+  background: #333;
+  border-radius: 100%;
+  position:absolute;
+}
+.righteye {
+    top: 358px;
+    left: 414px;
+    width: 15px;
+    height: 15px;
+    background: #333;
+    border-radius: 100%;
+    position:absolute;
+}
+.mouth {
+    top:397px;
+   left: 385px;
+   width: 20px;
+   height: 20px;
+   border-radius: 100%;
+   border: 5px solid;
+   border-color: transparent transparent #333 #333;
+   transform: rotate(-47deg);
+   position: absolute;
+
 }
