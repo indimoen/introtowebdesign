@@ -1,9 +1,14 @@
 a {
-  font-size: 300px;
+  font-size: 50px;
+  text-align: center;
 }
-
+li {
+  text-align: center;
+}
 body {
-  background-color: tomato;
+  background-color: #E6E6FA;
+  text-align: center;
+
 }
 img{
   width:100%;
