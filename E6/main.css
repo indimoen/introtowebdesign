@@ -81,8 +81,77 @@ body{
       width: 50px;
       height: 200px;
       float: left;
-      margin-top: -10px;
+      margin-top: 10px;
       margin-left: 10px;
       opacity: .8;
       border-radius: 50%;
       display: inline-block;}
+
+.pattern4 .aqua{
+  background-color: aqua;
+  width: 100px;
+  height: 400px;
+  float: left;
+  margin-top: 10px;
+  margin-left:10px;
+  border-radius: 70%;
+}
+.pattern4 .lavender{
+  background-color: E6E6FA;
+  width: 100px;
+  height: 300px;
+  float: left;
+  margin-top: 10px;
+  margin-left:10px;
+  border-radius: 40%;
+}
+.pattern4 .yellow{
+
+  background-color: yellow;
+  width: 100px;
+  height: 400px;
+  float: left;
+  margin-top: 10px;
+  margin-left:10px;
+  border-radius: 70%;
+}
+.pattern5 .grey{
+
+  background-color: #454140;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-top: -10px;
+  margin-left:-10px;
+  border-radius: 50%;
+}
+.pattern5 .orange{
+
+  background-color: #bd5734;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-top: -10px;
+  margin-left:-10px;
+  border-radius: 50%;
+}
+.pattern5 .taupe{
+
+  background-color: #a79e84;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-top: -10px;
+  margin-left:-10px;
+  border-radius: 50%;
+}
+.pattern5 .brick{
+
+  background-color: #7a3b2e;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-top: -10px;
+  margin-left:-10px;
+  border-radius: 50%;
+}

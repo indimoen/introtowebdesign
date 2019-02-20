@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+
+}
+div{
+  float: left;
+}
+.board {
+  width: 800px;
+}
+.red {
+  background-color: red;
+  width: 100px;
+  height: 400px;
+}
