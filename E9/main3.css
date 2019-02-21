@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+
+}
+div{
+  float: left;
+}
+.container {
+  width: 800px;
+}
+.top {
+  background-color: red;
+  width: 800px;
+  height: 150px;
+  margin-bottom: 100px;
+}
+
+.rec {
+  background-color: red;
+  width:630px;
+  height:400px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+
+.rightrec {
+  background-color: red;
+  width: 150px;
+  height: 200px;
+}
+.bottomrec {
+  background-color: red;
+  width:630px;
+  height: 50px;
+  margin-bottom: 100px;
+}

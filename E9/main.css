@@ -3,16 +3,60 @@
 }
 body{
   margin: 0;
+  display: block;
 
 }
 div{
   float: left;
+  border-color:
 }
 .board {
-  width: 800px;
+  width: 600px;
 }
-.red {
+.verticalleft {
   background-color: red;
   width: 100px;
-  height: 400px;
+  height: 300px;
+  border:2px solid white;
+}
+
+.inside-board {
+  width: 400px;
+  }
+
+.horizontal {
+  background-color: red;
+  width: 400px;
+  height: 100px;
+  border: 2px solid white;
+}
+.bottomleft {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 2px solid white;
+}
+.bottomright {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 2px solid white;
+}
+.verticalright {
+  background-color: red;
+  width: 100px;
+  height: 300px;
+  border: 2px solid white;
+}
+.verticalleft2 {
+  background-color: red;
+  width: 100px;
+  height: 300px;
+  border:2px solid white;
+}
+.verticalright2 {
+  background-color: red;
+  width: 100px;
+  height: 300px;
+  border: 2px solid white;
 }
