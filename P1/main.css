@@ -1,8 +1,35 @@
 body{
   font-family: 'Slabo 27px', serif;
   font-size: 24px;
+  text-align: center;
 }
 div {
 width: 600px;
 margin: 50px auto;
+font-family: 'Anton', sans-serif;
+
+}
+
+.title {
+  font-size: 30px;
+  color: MediumSeaGreen;
+}
+a:link {
+  text-decoration: none;
+  color: green;
+}
+
+a:visited {
+  text-decoration: none;
+  color: salmon;
+}
+
+a:hover {
+  text-decoration: underline;
+  color:teal;
+}
+
+a:active {
+  text-decoration: underline;
+  color: tomato;
 }
