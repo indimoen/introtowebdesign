@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+
+}
+body {
+  margin: 0;
+  font-family: 'Rubik', sans-serif;
+  background-color: yellow;
+}
+
+div {
+    float: left;
+}
+.container {
+  width: 500px;
+  margin-left: 100px;
+}
+.left {
+  background-color: red;
+  width:100px;
+  height: 600px;
+
+}
+h2 {
+  margin-top: 10px;
+  margin-left: 50px;
+}
