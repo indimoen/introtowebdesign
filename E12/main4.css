@@ -11,45 +11,54 @@ div {
     float: left;
 }
 .container {
-  width: 600px;
-  margin-left: 100px;
-  margin-top: 100px;
+  width: 800px;
+  margin-left: -121px;
+  margin-top: 455px;
+
 }
 
 h2 {
   font-weight: lighter;
 }
 #c {
-  left:515px;
+  text-align: left;
+  position: absolute;
+  left: 514px;
+  top:1369px;
 }
+
 h1 {
   margin-top: 100px;
   margin-left: 290px;
+  text-align: center;
+  font-weight: bold;
+
 }
 #b {
-  transform: rotate(90deg);
   position: absolute;
-  left:467px;
+  left:75px;
+  top:283px;
 }
 
 h3 {
   margin: 0;
   font-size: 100px;
   color: black;
+  text-align: left;
+
 }
 #a {
   /* height:150px; */
-  width: 1400px;
-  transform: rotate(90deg);
+  width: 800px;
   background-color: ;
   position: absolute;
-  top: 725px;
-  left:85px;
+  top: 50px;
+  left:80px;
 
 }
 
 p {
   margin-left: 160px;
-  margin-bottom: 80px;
   font-size: 18px;
+  top:100px;
 }

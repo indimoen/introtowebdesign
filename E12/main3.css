@@ -13,14 +13,18 @@ div {
 .container {
   width: 700px;
   margin-left: 100px;
+  margin-top: 400px;
 }
 
 h2 {
-  margin-top: 366px;
-  margin-left: -66px;
   font-weight: lighter;
 }
-
+#c {
+  text-align: left;
+  position: absolute;
+  left: 514px;
+  top:1369;
+}
 h1 {
   margin-top: 100px;
   margin-left: 290px;
