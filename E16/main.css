@@ -1,0 +1,74 @@
+body {
+  margin:0;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+.full {
+    width: 100vw;
+    height: 100vh;
+
+}
+#list-name {
+    background-color: lavender;
+}
+#song-5 {
+    transition: all 2s ease;
+}
+.blue {
+  background-color: blue;
+}
+.black {
+  background-color: black;
+}
+#song-4 {
+    transition: all 2s ease;
+}
+.teal {
+background-color: teal;
+}
+.grey {
+background-color: grey;
+}
+#song-3 {
+    transition: all 2s ease;
+}
+.hotpink {
+  background-color: hotpink;
+}
+.slateblue {
+  background-color: slateblue;
+}
+
+#song-2 {
+    transition: all 2s ease
+}
+.lightblue {
+  background-color: lightblue;
+}
+.tomato {
+  background-color: tomato;
+}
+.salmon {
+  background-color: salmon;
+}
+#song-1 {
+    transition: all 3s ease;
+}
+.lime {
+  background-color: lime;
+}
+h1 {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-weight: bold;
+  transition: all 2s ease;
+  padding: 40vh 0 0 0;
+  font-size: 4em;
+}
+span {
+  transition: all 2s ease;
+  cursor:pointer;
+}
